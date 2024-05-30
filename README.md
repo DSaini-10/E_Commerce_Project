@@ -5,11 +5,11 @@ Through this website we aim to provide the customers a user friendly and conveni
 
 ## Features
 
-User authentication 
-Product listing and details
-Cart functionality
-Checkout functionality
-Admin management
+User authentication\
+Product listing and details\
+Cart functionality\
+Checkout functionality\
+Admin management\
 Product Management 
 
 ## Technologies Used
