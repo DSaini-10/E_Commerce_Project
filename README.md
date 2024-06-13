@@ -23,9 +23,9 @@ MongoDB
 
 ## Installation
 
-1. Clone the repository. \
-2. Install dependencies by running npm install. \
-3. Start the server by running npm start.
+1. Clone the repository. 
+\2. Install dependencies by running npm install. 
+\3. Start the server by running npm start.
 
 ## Any Contributions are Welcome !
 
