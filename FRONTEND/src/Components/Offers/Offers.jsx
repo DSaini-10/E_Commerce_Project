@@ -1,19 +1,21 @@
 import React from 'react'
 import './Offers.css'
-import exc_image from '../Assets/exclusive_image.png'
+import arrow_icon from '../Assets/arrow.png'
 
 const Offers = () => {
   return (
     <div className="offers">
+      <div className="offer-screen">    
         <div className="offers-left">
             <h1>Exclusive</h1>
             <h1>Offers For You</h1>
-            <p>ONLY ON BEST SELLERS PRODUCTS</p>
-            <button>Check Now</button>
+            <p>ON BEST SELLERS PRODUCTS</p>
+            <div className="offers-latest-btn">
+                <div>Check Now</div>
+                <img src={arrow_icon} alt="" />
+            </div>
         </div>
-        <div className="offers-right">
-            <img src={exc_image} alt="" />
-        </div>
+    </div>
     </div>
   )
 }

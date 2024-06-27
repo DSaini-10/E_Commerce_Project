@@ -14,6 +14,7 @@ app.use(cors());
 // Data Base Coonnection with MONGODB
 mongoose.connect("mongodb+srv://mightythor200:bakwaspass@cluster0.y8bqekt.mongodb.net/ECommerce")
 
+
 // API CREATION
 app.get("/",(req,res)=>{
     res.send("Express app is running")

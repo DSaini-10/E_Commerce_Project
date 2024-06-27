@@ -1,9 +1,11 @@
 .popular{
+    padding-top: 40px;
     display:flex;
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    height: 90vh;
+    height: 70vh;
+    /* margin-top: 10px; */
 }
 .popular h1{
     color:#171717;

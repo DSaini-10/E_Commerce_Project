@@ -6,6 +6,9 @@
     gap: 50px;
 
 }
+.footer-logo img{
+    height: 100px;
+}
 .footer-logo{
     display: flex;
     align-items: center;
